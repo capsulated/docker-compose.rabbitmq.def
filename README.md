@@ -3,7 +3,7 @@
 ## Install
 
 ```
-git clone git@github.com:sylogex/rabbitmq-compose.git
+git clone git@github.com:sylogex/rabbitmq-compose-definitions.git
 cd rabbitmq-compose-definitions
 docker-compose up
 ```
